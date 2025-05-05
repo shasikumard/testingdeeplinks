@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.apex.apex_mobile_app",
+    "package_name": "com.apex.mobile_app.qa",
     "sha256_cert_fingerprints": ["C0:C2:42:03:7A:66:E7:AC:99:FC:E2:AD:D6:6F:19:E0:CC:B0:E5:DF:0D:48:21:2B:D7:9A:32:07:D7:59:26:8D"]
   }
 }] 
