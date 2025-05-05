@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.apex.mobile_app.qa",
-    "sha256_cert_fingerprints": ["C0:C2:42:03:7A:66:E7:AC:99:FC:E2:AD:D6:6F:19:E0:CC:B0:E5:DF:0D:48:21:2B:D7:9A:32:07:D7:59:26:8D"]
+    "sha256_cert_fingerprints": ["EC:7E:32:E8:9A:68:41:CB:6B:AF:E0:39:F3:EA:82:73:D0:8F:EC:C7:CC:56:96:B7:94:80:4A:5A:9E:BD:B3:B5"]
   }
 }] 
